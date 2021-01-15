@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/arizonia</item>
+        <item>@font/clicker_script</item>
+        <item>@font/dancing_script_bold</item>
+        <item>@font/devonshire</item>
+        <item>@font/engagement</item>
+        <item>@font/playball</item>
+        <item>@font/vibur</item>
+        <item>@font/yesteryear</item>
+    </array>
+</resources>
